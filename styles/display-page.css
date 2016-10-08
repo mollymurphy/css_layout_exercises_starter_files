@@ -1,0 +1,52 @@
+
+main {
+	font-size: 0;
+}
+
+.container {
+	margin-top: 90px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.sq {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.sq_one {
+  width: 50%;
+  height: 200px; 
+}
+
+.sq_two {
+  width: 33.33%;
+  height: 300px;  
+}
+
+.one {
+  background-color: green; 
+}
+
+.two {
+  background-color: blue; 
+}
+
+.three {
+	background-color: gray;
+}
+
+.four {
+  background-color: black; 
+}
+
+.five {
+	background-color: orange;
+}
+
+
+.centered {
+	text-align: center;
+}
